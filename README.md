@@ -1,0 +1,1 @@
+#  練習非同步(asynchronous) 使用
